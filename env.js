@@ -6,5 +6,5 @@
  */
 
 window.config = {
-  requestURL: 'https://101.96.120.41:5003'
+  requestURL: 'http://157.230.191.176:5003'
 };
